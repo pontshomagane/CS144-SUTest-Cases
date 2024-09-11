@@ -1,0 +1,1 @@
+ERROR: Invalid object setup on line 5

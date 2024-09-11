@@ -1,0 +1,1 @@
+ERROR: Cannot place hive at already occupied location (2, 3)
