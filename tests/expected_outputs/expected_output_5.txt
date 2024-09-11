@@ -1,1 +1,1 @@
-ERROR: Cannot place flower at already occupied location (2, 3)
+ERROR: Cannot place flower at already occupied location (3, 2)
